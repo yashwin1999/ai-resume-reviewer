@@ -1,10 +1,12 @@
+# AI Resume Reviewer
+
 ![Score](images/Score.jpg)
 
 ![Results](images/Results.jpg)
 
 ![Recents](images/Recents.jpg)
 
-# AI Resume Reviewer
+## Description
 
 A simple full-stack resume reviewer that uses React, Express, SQLite, and Ollama.
 
