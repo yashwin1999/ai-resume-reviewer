@@ -71,29 +71,6 @@ After building, run:
 npm --prefix server start
 ```
 
-## GitHub steps
-
-1. Create a new repository on GitHub.
-2. Copy the repo URL.
-3. In this project folder, run:
-
-```powershell
-git init
-git add .
-git commit -m "Initial AI resume reviewer"
-git branch -M main
-git remote add origin <your-github-repo-url>
-git push -u origin main
-```
-
-4. When you make changes later, run:
-
-```powershell
-git add .
-git commit -m "Update resume reviewer"
-git push
-```
-
 ## Notes
 
 - Resume uploads support PDF, DOCX, and TXT
